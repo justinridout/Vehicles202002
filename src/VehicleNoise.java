@@ -8,6 +8,10 @@ public class VehicleNoise {
 		Car honda = new Car();
 		System.out.println(honda.makeNoise());
 		
+		
+		Camper jayco = new Camper();
+		System.out.println(jayco.makeNoise());
+		
 	}
 
 }
